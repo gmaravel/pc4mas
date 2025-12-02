@@ -23,6 +23,9 @@ A jupyter notebook (Apply_Classifier.ipynb) is provided as a tool to use the cla
 
 ### Extra plots
 
-In Paper II only a coupld of CMDs are presented. Here, we also provide similar plots for all galaxies (check 'Results-CMDs').  
+In Paper II only a couple of CMDs are presented. Here, we also provide similar plots for all galaxies (check 'Results-CMDs').  
 
 
+## Installation
+
+You can use conda and the environment.yml file to set up fast and easy an isolated environment to run the classifier. 
